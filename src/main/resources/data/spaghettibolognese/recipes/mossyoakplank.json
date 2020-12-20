@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "spaghettibolognese:moss"
+        },
+        {
+            "item": "minecraft:oak_planks"
+        }
+    ],
+    "result": {
+        "item": "spaghettibolognese:mossyoakplank",
+        "count": 1
+    },
+	"group": "mossyplanks"
+}
+

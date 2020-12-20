@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "spaghettibolognese",
+  "version": "${version}",
+
+  "name": "Spaghetti Bolognese",
+  "description": "A collections of items long lost to the sands of time. Until now!",
+  "authors": [
+    "Billeh007, CR43Z33M0NK3Y"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.billeh007.spaghettibolognese.SpaghettiBolognese"
+    ]
+  },
+  "mixins": [
+    "modid.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "P",
+        "M",
+        "B"
+    ],
+    "key": {
+        "M": {
+            "item": "spaghettibolognese:meatball"
+        },
+        "P": {
+            "item": "spaghettibolognese:cookedpasta"
+        },
+        "B": {
+            "item": "minecraft:bowl"
+        }
+    },
+    "result": {
+        "item": "spaghettibolognese:spaghettibolognese",
+        "count": 1
+    }
+}
+

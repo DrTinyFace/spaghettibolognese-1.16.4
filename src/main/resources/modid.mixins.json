@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.billeh007.spaghettibolognese.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "SpaghettiBologneseMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
