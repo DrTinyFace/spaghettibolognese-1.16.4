@@ -24,6 +24,16 @@ Spaghetti Bolognese is a passion project developed by [Billeh007](https://www.cu
 		* A clump of moss that can be applied to blocks to add moss to them.
 	* Mossy Planks
 		* Available in each type of wood (except not yet), simply a moss covered plank. Truly beautiful in its simplicity.
+* Burger Mod
+	* Another food mod, adds a delicious burger.
+	* Burger
+		* Made from bread and steak, makes three burgers that are as filling as one piece of steak.
+* Blinds Mod
+	* A brilliant mod which adds blind-like windows.
+	* Blind sticks
+		* Crafted with two pieces of iron, used in crafting blinds.
+	* Blinds
+		* A clear block to be used in place of windows, adds some privacy to your builds.
 
 ## Other Version Source Codes
 
