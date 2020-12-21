@@ -10,10 +10,12 @@ public class ItemList
 	public static final ModItem itemPasta = new ModItem();
 	public static final ModItem itemFlour = new ModItem();
 	public static final ModItem itemMoss = new ModItem();
+	public static final ModItem itemBlindStick = new ModItem();
 	
 	//foods
 	public static final ModFood foodPasta = new ModFood(1, 0.6f);
 	public static final ModFood foodMeatball = new ModFood(4, 0.8f);
+	public static final ModFood foodBurger = new ModFood(8, 0.8f);
 	
 	//stews
 	public static final ModStew foodSpaghettiBolognese = new ModStew(6, 0.8f);
@@ -35,5 +37,11 @@ public class ItemList
 		
 		//dog food mod
 		RegisterHelper.registerItem("dogfood", foodDogFood);
+		
+		//burger mod
+		RegisterHelper.registerItem("burger", foodBurger);
+		
+		//blinds mod
+		RegisterHelper.registerItem("blindstick", itemBlindStick);
 	}
 }

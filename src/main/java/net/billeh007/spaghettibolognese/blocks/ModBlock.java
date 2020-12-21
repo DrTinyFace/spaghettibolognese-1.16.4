@@ -7,8 +7,13 @@ import net.minecraft.block.MaterialColor;
 
 public class ModBlock extends Block
 {
+	public ModBlock(FabricBlockSettings settings)
+	{
+		super(settings);
+	}
+	
 	public ModBlock(Material material, MaterialColor color, float hardness)
 	{
-		super(FabricBlockSettings.of(material, color).hardness(hardness));
+		this(FabricBlockSettings.of(material, color).hardness(hardness));
 	}
 }

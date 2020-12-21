@@ -6,6 +6,9 @@
 	"item.spaghettibolognese.meatball": "Meatball",
 	"item.spaghettibolognese.dogfood": "Dog Food",
 	"item.spaghettibolognese.spaghettibolognese": "Spaghetti Bolognese",
+	"item.spaghettibolognese.burger": "Hamburger",
 	"block.spaghettibolognese.mossyoakplank": "Mossy Oak Plank",
-	"item.spaghettibolognese.moss": "Moss Ball"
+	"item.spaghettibolognese.moss": "Moss Ball",
+	"item.spaghettibolognese.blindstick": "Blinds Stick",
+	"block.spaghettibolognese.blinds": "Blinds"
 }
