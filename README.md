@@ -5,7 +5,7 @@ Spaghetti Bolognese is a passion project developed by [Billeh007](https://www.cu
 ## Current Additions
 
 * Spaghetti Bolognese Mod
-	*The mod that started it all. A simple food mod that inspired a nation, and more importantly a single modder with too much time on his hands.
+	* The mod that started it all. A simple food mod that inspired a nation, and more importantly a single modder with too much time on his hands.
 	* Spaghetti Bolognese
 		* A new meal type, made from meatballs and cooked pasta.
 	* Pasta
